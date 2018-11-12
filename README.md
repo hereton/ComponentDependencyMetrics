@@ -1,7 +1,7 @@
 # ComponentDependencyMetrics
 
 Result:
-![alt text](https://github.com/hereton/ComponentDependencyMetrics/tree/master/graph/Screen%Shot%2018-11-12%at%18.29.28.png)
+![alt text](https://github.com/hereton/ComponentDependencyMetrics/blob/master/graph/Screen%20Shot%202018-11-12%20at%2018.29.28.png?raw=true)
 
 Run R project and see graph(MacOS):
 ```sh
